@@ -4,7 +4,7 @@
 
 ### 下载 
 - **Windows:**            
- [单文件版](https://github.com/yinghuocho/download/blob/master/firefly_windows_386.exe?raw=true) 
+  + [安装版](https://raw.githubusercontent.com/xiayhc/yhc/master/yhc.exe) | [单文件版](https://raw.githubusercontent.com/xiayhc/yhc/master/greenyhc.exe) 
 - **Android 4.0.3 及以上:**
   + [直接下载](https://github.com/yinghuocho/download/blob/master/firefly.apk?raw=true) | [Google Play](https://play.google.com/store/apps/details?id=org.gofirefly.android.vpn)
 - **iOS 9.3 及以上:**
