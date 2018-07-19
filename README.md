@@ -4,7 +4,7 @@
 
 ### 下载 
 - **Windows:**            
-  + [安装版](https://raw.githubusercontent.com/yonghuocho/xiazai/master/yhc.exe) | [单文件版](https://raw.githubusercontent.com/yinghuocho/xiazai/master/greenyhc.exe) 
+  + [安装版](https://raw.githubusercontent.com/yinghuocho/xiazai/master/yhc.exe) | [单文件版](https://raw.githubusercontent.com/yinghuocho/xiazai/master/greenyhc.exe) 
 - **Android 4.0.3 及以上:**
   + [直接下载](https://raw.githubusercontent.com/yinghuocho/xiazai/master/yhc.apk) | [Google Play](https://play.google.com/store/apps/details?id=org.gofirefly.android.vpn)
 - **iOS 9.3 及以上:**
